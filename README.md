@@ -1,2 +1,7 @@
 # node-rest-app-benchmark
-Test repo to identify hot and critical js 
+
+Simple rest api app implemented to identify hot and critical js
+
+# License
+
+MIT
